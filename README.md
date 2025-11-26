@@ -1,16 +1,54 @@
-## Hi there 👋
+<h1 align="center">Olá! 👋 Eu sou a Evellyn Sene</h1>
+---
 
-<!--
-**evellynsimoes/evellynsimoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Tecnologias que utilizo
 
-Here are some ideas to get you started:
+### 💻 Linguagens
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="Arduino" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧩 Frameworks & Bibliotecas
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="Angular" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="Django" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="SQLite" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
+</p>
+
+---
+
+## 📊 Sobre mim
+- 👩‍💻 Estudante e desenvolvedora full stack  
+- 🌐 Experiência com **React**, **Angular**, **Django**, **APIs REST**, **JWT**, **IoT com Arduino**  
+- 🎨 Gosto de criar interfaces modernas e responsivas  
+- ⚙️ Amo aprender novas tecnologias e transformar ideias em projetos reais  
+
+---
+
+## 📬 Onde me encontrar
+<p align="left">
+  <a href="https://www.linkedin.com/in/evellyn-sene" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="mailto:evellyn.sene15@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" height="40" alt="email" />
+  </a>
+</p>
+
+📧 **Email:** evellyn.sene15@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/evellyn-sene
+---
+
+## ✨ Obrigada pela visita!
+
