@@ -26,7 +26,6 @@
 
 ## 📊 Sobre mim
 - 👩‍💻 Estudante e desenvolvedora full stack  
-- 🌐 Experiência com **React**, **Angular**, **Django**, **APIs REST**, **JWT**, **IoT com Arduino**  
 - 🎨 Gosto de criar interfaces modernas  
 - ⚙️ Amo aprender novas tecnologias e transformar ideias em projetos reais  
 
