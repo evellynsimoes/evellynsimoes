@@ -11,17 +11,13 @@
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" />
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="Arduino" />
 </p>
 
 ### 🧩 Frameworks & Bibliotecas
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
   <img src="https://skillicons.dev/icons?i=angular" height="40" alt="Angular" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" />
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="Django" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="SQLite" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
 </p>
@@ -31,7 +27,7 @@
 ## 📊 Sobre mim
 - 👩‍💻 Estudante e desenvolvedora full stack  
 - 🌐 Experiência com **React**, **Angular**, **Django**, **APIs REST**, **JWT**, **IoT com Arduino**  
-- 🎨 Gosto de criar interfaces modernas e responsivas  
+- 🎨 Gosto de criar interfaces modernas  
 - ⚙️ Amo aprender novas tecnologias e transformar ideias em projetos reais  
 
 ---
